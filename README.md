@@ -12,12 +12,12 @@ To evaluate the learned reward functions, we present qualitative results on two 
 To our knowledge, these are the first results showing that complex robotic manipulation skills can be learned directly and without supervised labels from a video of a human performing the task.
 
 # Model
-<img src='docs/figs/mvTCN.png' width='480'>
+<img src='docs/pouring_016.png' width='480'>
 
 
 
 ### Unsupervised Imitation
-<img src='docs/observation.gif' height='270'><img src='docs/imitation.gif' height='270'>
+<img src='docs/observation.gif' height='270'>  <img src='docs/imitation.gif' height='270'>
 
 # Citation
 
