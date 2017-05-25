@@ -17,8 +17,8 @@ To our knowledge, these are the first results showing that complex robotic manip
 
 
 ### Self-supervision + human supervision
-<img src='docs/figs/observation.gif' height='270'>
-<img src='docs/figs/imitation.gif' height='270'>
+<img src='docs/observation.gif' height='270'>
+<img src='docs/imitation.gif' height='270'>
 
 # Citation
 
