@@ -3,11 +3,11 @@ Pierre Sermanet\*, Kelvin Xu\*†, Sergey Levine<br>
 Google Brain<br>
 (* equal contributions, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
+### [[ Paper ]](https://arxiv.org/abs/) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
+
 <img src='docs/pouring_016.png'>
 <img src='docs/human_08.png'>
 <img src='docs/bluedoor_00.png'>
-
-### [[ Paper ]](https://arxiv.org/abs/) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
 
 ##### Abstract
 Reward function design and exploration time are arguably the biggest obstacles to the deployment of reinforcement learning (RL) agents in the real world. In many real-world tasks, designing a suitable reward function takes considerable manual engineering and often requires additional and potentially visible sensors to be installed just to measure whether the task has been executed successfully. Furthermore, many interesting tasks consist of multiple steps that must be executed in sequence. Even when the final outcome can be measured, it does not necessarily provide useful feedback on these implicit intermediate steps or sub-goals.
