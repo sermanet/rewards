@@ -16,18 +16,17 @@ To our knowledge, these are the first results showing that complex robotic manip
 
 
 
-### Self-supervision + human supervision
-<img src='docs/observation.gif' height='270'>
-<img src='docs/imitation.gif' height='270'>
+### Unsupervised Imitation
+<img src='docs/observation.gif' height='270'><img src='docs/imitation.gif' height='270'>
 
 # Citation
 
 ```
-@INPROCEEDINGS{SermanetRewards2017, 
-    AUTHOR    = {Sermanet, Pierre and Lynch, Corey and Hsu, Jasmine and Levine, Sergey}, 
-    TITLE     = {Unsupervised Perceptual Rewards for Imitation Learning}, 
-    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
-    YEAR      = {2017}, 
+@inproceedings{SermanetRewards2017, 
+    author    = {Sermanet, Pierre and Lynch, Corey and Hsu, Jasmine and Levine, Sergey}, 
+    title     = {Unsupervised Perceptual Rewards for Imitation Learning}, 
+    booktitle = {Proceedings of Robotics: Science and Systems}, 
+    year      = {2017}, 
 } 
 ```
 
