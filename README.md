@@ -3,7 +3,7 @@ Pierre Sermanet\*, Kelvin Xu\*†, Sergey Levine<br>
 Google Brain<br>
 (* equal contributions, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
-### [[ Paper ]](https://arxiv.org/abs/) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
+### [[ Paper ]](https://arxiv.org/abs/1612.06699) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
 
 <img src='docs/pouring_016.png'>
 <img src='docs/human_08.png'>
