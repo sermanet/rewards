@@ -22,7 +22,7 @@ To our knowledge, these are the first results showing that complex robotic manip
 
 ```
 @inproceedings{SermanetRewards2017, 
-    author    = {Sermanet, Pierre and Lynch, Corey and Hsu, Jasmine and Levine, Sergey}, 
+    author    = {Sermanet, Pierre and Xu, Kelvin and Levine, Sergey}, 
     title     = {Unsupervised Perceptual Rewards for Imitation Learning}, 
     booktitle = {Proceedings of Robotics: Science and Systems}, 
     year      = {2017}, 
@@ -30,5 +30,4 @@ To our knowledge, these are the first results showing that complex robotic manip
 ```
 
 # Acknowledgments
-
-
+We thank Vincent Vanhoucke for helpful discussions and feedback and Mrinal Kalakrishnan and Ali Yahya for indispensable guidance throughout this project.
