@@ -3,6 +3,8 @@ Pierre Sermanet\*, Kelvin Xu\*†, Sergey Levine<br>
 Google Brain<br>
 (* equal contributions, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
+This project is part of the larger [Unsupervised Imitation Learning](https://sermanet.github.io/imitation/) project.
+
 ### [[ Paper ]](https://arxiv.org/abs/1612.06699) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
 
 <img src='docs/pouring_016.png'>
