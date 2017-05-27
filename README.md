@@ -32,4 +32,4 @@ To our knowledge, these are the first results showing that complex robotic manip
 ```
 
 # Acknowledgments
-We thank Vincent Vanhoucke for helpful discussions and feedback and Mrinal Kalakrishnan and Ali Yahya for indispensable guidance throughout this project.
+We thank Vincent Vanhoucke for helpful discussions and feedback, Mrinal Kalakrishnan and Ali Yahya for indispensable guidance throughout this project and Yevgen Chebotar for his PI^2 implementation. We also thank the anonymous reviewers for their feedback and constructive comments.
