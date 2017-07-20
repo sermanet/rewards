@@ -5,9 +5,13 @@ Google Brain<br>
 
 This project is part of the larger [Unsupervised Imitation Learning](https://sermanet.github.io/imitation/) project.
 
-### [[ Paper ]](https://arxiv.org/abs/1612.06699) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
+### [[ Paper ]](https://arxiv.org/abs/1612.06699) [[ Video ]](https://youtu.be/7f7sdLMCItg) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
 
 <img src='docs/reward.png'>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7f7sdLMCItg" target="_blank">
+video
+</a>
 
 ##### Abstract
 Reward function design and exploration time are arguably the biggest obstacles to the deployment of reinforcement learning (RL) agents in the real world. In many real-world tasks, designing a suitable reward function takes considerable manual engineering and often requires additional and potentially visible sensors to be installed just to measure whether the task has been executed successfully. Furthermore, many interesting tasks consist of multiple steps that must be executed in sequence. Even when the final outcome can be measured, it does not necessarily provide useful feedback on these implicit intermediate steps or sub-goals.
