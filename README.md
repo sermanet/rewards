@@ -23,7 +23,7 @@ To our knowledge, these are the first results showing that complex robotic manip
 
 ### Learning a task from unsupervised rewards
 
-<img src='docs/doors.mov.gif' height='375'>
+<img src='docs/doors.mov.gif'>
 <img src='docs/iterations.mov.gif' height='375'>
 
 # Citation
