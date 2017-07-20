@@ -9,10 +9,6 @@ This project is part of the larger [Unsupervised Imitation Learning](https://ser
 
 <img src='docs/reward.png'>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7f7sdLMCItg" target="_blank">
- <img src="docs/youtube_front.png" alt="rewards" width="480">
-</a>
-
 ##### Abstract
 Reward function design and exploration time are arguably the biggest obstacles to the deployment of reinforcement learning (RL) agents in the real world. In many real-world tasks, designing a suitable reward function takes considerable manual engineering and often requires additional and potentially visible sensors to be installed just to measure whether the task has been executed successfully. Furthermore, many interesting tasks consist of multiple steps that must be executed in sequence. Even when the final outcome can be measured, it does not necessarily provide useful feedback on these implicit intermediate steps or sub-goals.
 To address these issues, we propose leveraging the abstraction power of intermediate visual representations learned by deep models to quickly infer perceptual reward functions from small numbers of demonstrations. We present a method that is able to identify the key intermediate steps of a task from only a handful of demonstration sequences, and automatically identify the most discriminative features for identifying these steps. This method makes use of the features in a pre-trained deep model, but does not require any explicit sub-goal supervision. The resulting reward functions, which are dense and smooth, can then be used by an RL agent to learn to perform the task in real-world settings.
@@ -32,6 +28,12 @@ To our knowledge, these are the first results showing that complex robotic manip
 ### Learning Progression
 
 <img src='docs/iterations.mov.gif' height='375'>
+
+### Talk Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7f7sdLMCItg" target="_blank">
+ <img src="docs/youtube_front.png" alt="rewards" width="480">
+</a>
 
 # Citation
 
