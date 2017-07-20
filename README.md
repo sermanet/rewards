@@ -10,7 +10,7 @@ This project is part of the larger [Unsupervised Imitation Learning](https://ser
 <img src='docs/reward.png'>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7f7sdLMCItg" target="_blank">
-video
+ <img src="docs/youtube_front.png" alt="rewards" width="480">
 </a>
 
 ##### Abstract
