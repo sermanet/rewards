@@ -4,7 +4,7 @@ Google Brain<br>
 
 This project is part of the larger [Self-Supervised Imitation Learning](https://sermanet.github.io/imitation/) project.
 
-### [[ Paper ]](https://arxiv.org/abs/1612.06699) [[ Video ]](https://youtu.be/7f7sdLMCItg) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
+### [[ Paper ]](https://arxiv.org/abs/1612.06699) [[ BibTex ]](https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2017Rewards.bib) [[ Video ]](https://youtu.be/7f7sdLMCItg) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/pouring-dataset)
 
 <img src='docs/reward.png'>
 
